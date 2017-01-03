@@ -1,0 +1,54 @@
+.btn-info, .btn-info:focus {
+  background-color: red;
+  font-weight: bold;
+  width: 100%;
+  
+}
+
+.btn-info:hover {
+  background: #369691;
+  color: black;
+}
+
+
+#text-container {
+  
+  min-height: 150px;
+}
+#container {
+  background:rgba(50,50,50,0.6);
+ color:white;
+  width:1200px;
+  margin: 30px auto;
+  psdding: 15px;
+  
+}
+body {
+  background: url("http://probathroomremodeling.com/wp-content/uploads/2014/03/background-wallpaperwebsites-desktop-website-templates-web-1920x1080-wallpaper.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#buttons{
+  font-size: 20px;
+}
+
+#buttons > a {
+  display: block;
+  background: #55acee;
+  width: 40px;
+  height: 40px;
+  margin: 5px 0;
+  border-radius: 4px;
+  cursor: pointer;
+  color: white;
+  font-size: 30px;
+}
+
+#buttons > a:hover {
+  background: #55dcee;
+  color: blue;
+}
+  
